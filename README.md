@@ -1,4 +1,5 @@
 # SocialMediaWebsite
+[Click here for live site](https://shiwang7308.github.io/SocialMediaWebsite/)
 A Social Media Website with the functionality of dark mode and lightMode for user interactiveness along with profile page 
 created using pure HTML, CSS, JavaScript
 ![Screenshot (244)](https://user-images.githubusercontent.com/85975646/205731508-1472d104-0ee3-414f-a4f6-97e604164472.png)
